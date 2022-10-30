@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in coding, design, art, nature, cooking & music (punk, northern soul, motown, ska & more!)
-- 🌱 I’m currently learning Front end web developement (html,css and javascript)
+- 🌱 I’m currently learning front end web developement (html,css and javascript)
 - 💞️ I’m looking to collaborate on projects, for fun, experience and to keep learning!
 - 📫 Message me: gemmalouisaporter@outlook.com
 
